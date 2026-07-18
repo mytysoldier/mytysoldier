@@ -1,6 +1,6 @@
 個人でアプリをつくりつつ、考えたことや日々のあれこれを、文章と音声で発信しています。
 
-## 開発・ブログ
+## 開発・ブログ・音声発信
 
 - [個人開発アプリ](https://github.com/mytysoldier/my-apps-list)
 - [X @kyappamu](https://x.com/kyappamu)
