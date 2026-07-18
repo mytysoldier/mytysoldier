@@ -1,16 +1,13 @@
-## Hi there 👋
+個人でアプリをつくりつつ、考えたことや日々のあれこれを、文章と音声で発信しています。
 
-<!--
-**mytysoldier/mytysoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 開発・ブログ・音声発信
 
-Here are some ideas to get you started:
+- [個人開発アプリ](https://github.com/mytysoldier/my-apps-list)
+- [X @kyappamu](https://x.com/kyappamu)
+- [はてなブログ](https://lelelemon.hatenablog.com)
+- [Voicy](https://voicy.jp/channel/820984)
+- [Spotify](https://open.spotify.com/show/5v2fK13ScOczuM5Nsl5KM6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 趣味
+
+- [stand.fm - ランニング](https://stand.fm/channels/692bd2c38ddb67b3964f0936)
