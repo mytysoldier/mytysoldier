@@ -4,7 +4,7 @@
 
 - [個人開発アプリ](https://github.com/mytysoldier/my-apps-list)
 - [X @kyappamu](https://x.com/kyappamu)
-- [はてなブログ](https://lelelemon.hatenablog.com)
+- [はてなブログ](https://lelelemon.hatenablog.com/archive)
 - [Voicy](https://voicy.jp/channel/820984)
 - [Spotify](https://open.spotify.com/show/5v2fK13ScOczuM5Nsl5KM6)
 
